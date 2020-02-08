@@ -108,7 +108,6 @@ public class UDPSearcher {
                     final byte[] buf=new byte[512];
                     DatagramPacket receivePack =new DatagramPacket(buf,buf.length);
 
-
                     ds.receive(receivePack);
                     String ip=receivePack.getAddress().getHostAddress();
                     int port =receivePack.getPort();

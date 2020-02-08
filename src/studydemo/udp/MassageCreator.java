@@ -18,7 +18,6 @@ public class MassageCreator {
     public static String buildWithSn(String sn) {
         return SN_HEADER+sn;
     }
-
     public static String parseSn(String data) {
         if(data.startsWith(SN_HEADER)){
             return data.substring((PORT_HEADER.length()));

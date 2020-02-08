@@ -8,8 +8,6 @@ import java.util.UUID;
 
 public class UDPProvider {
     public static void main(String[] args) throws IOException {
-
-
         String sn= UUID.randomUUID().toString();
         Provider provider =new Provider(sn);
         provider.start();
@@ -38,7 +36,6 @@ public class UDPProvider {
 
                 final byte[] buf=new byte[512];
                 DatagramPacket receivePack =new DatagramPacket(buf,buf.length);
-
                 ds.receive(receivePack);
 
                 String ip=receivePack.getAddress().getHostAddress();
