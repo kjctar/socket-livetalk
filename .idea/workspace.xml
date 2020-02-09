@@ -2,6 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="661ee480-2a19-4158-81f1-ac76b3863acc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/META-INF/socket-livetalk.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/client/ClientSearcher$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/client/ClientSearcher$Listener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/client/ClientSearcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/client/bean/ServerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/clink/net/qiujuer/clink/Clink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/clink/net/qiujuer/clink/utils/ByteUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/constants/TCPConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/constants/UDPConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/server/ServerProvider$Provider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp1/server/ServerProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/client/TCPClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/client/UDPSearcher$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/client/UDPSearcher$Listener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/client/UDPSearcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/client/bean/ServerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/clink/net/qiujuer/clink/Clink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/clink/net/qiujuer/clink/utils/ByteUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/constants/TCPConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/constants/UDPConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/server/TCPServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/server/TCPServer$ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/server/TCPServer$ClientListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/server/TCPServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/server/UDPProvider$Provider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp2/server/UDPProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/client/TCPClient$ReadHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/client/TCPClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/client/UDPSearcher$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/client/UDPSearcher$Listener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/client/UDPSearcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/client/bean/ServerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/clink/net/qiujuer/clink/Clink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/clink/net/qiujuer/clink/utils/ByteUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/clink/net/qiujuer/clink/utils/CloseUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/constants/TCPConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/constants/UDPConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/TCPServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/TCPServer$ClientListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/TCPServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/UDPProvider$Provider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/UDPProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/handle/ClientHandler$ClientReadHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/handle/ClientHandler$ClientWriteHandler$WriteRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/handle/ClientHandler$ClientWriteHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/handle/ClientHandler$CloseNotify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/ptp3/server/handle/ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/test/ThreadTest$NumTool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socket-livetalk/studydemo/test/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/client/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/client/UDPSearcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/client/bean/ServerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/clink/net/qiujuer/clink/Clink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/clink/net/qiujuer/clink/utils/ByteUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/clink/net/qiujuer/clink/utils/CloseUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/constants/TCPConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/constants/UDPConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/server/TCPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/server/UDPProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studydemo/ptp3/server/handle/ClientHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,6 +84,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/server/Server.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,34 +133,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/TCPClient.java">
+        <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/server/UDPProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-334">
-              <caret line="18" column="44" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/UDPSearcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="143" column="43" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
+            <state relative-caret-position="191">
+              <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,6 +187,14 @@
         <option value="$PROJECT_DIR$/src/studydemo/ptp2/client/TCPClient.java" />
         <option value="$PROJECT_DIR$/src/studydemo/ptp2/server/Server.java" />
         <option value="$PROJECT_DIR$/src/studydemo/ptp2/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/studydemo/ptp3/server/handle/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/studydemo/ptp3/client/TCPClient.java" />
+        <option value="$PROJECT_DIR$/src/studydemo/ptp3/client/UDPSearcher.java" />
+        <option value="$PROJECT_DIR$/src/studydemo/ptp3/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/studydemo/ptp3/server/UDPProvider.java" />
+        <option value="$PROJECT_DIR$/src/studydemo/ptp3/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/studydemo/ptp3/server/TCPServer.java" />
+        <option value="$PROJECT_DIR$/src/studydemo/ptp2/server/UDPProvider.java" />
       </list>
     </option>
   </component>
@@ -176,6 +252,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="studydemo" type="462c0819:PsiDirectoryNode" />
               <item name="ptp2" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="socket-livetalk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="socket-livetalk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="studydemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ptp3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="socket-livetalk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="socket-livetalk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="studydemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ptp3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="socket-livetalk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="socket-livetalk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="studydemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ptp3" type="462c0819:PsiDirectoryNode" />
               <item name="clink" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -183,7 +282,7 @@
               <item name="socket-livetalk" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="studydemo" type="462c0819:PsiDirectoryNode" />
-              <item name="ptp2" type="462c0819:PsiDirectoryNode" />
+              <item name="ptp3" type="462c0819:PsiDirectoryNode" />
               <item name="constants" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -191,7 +290,7 @@
               <item name="socket-livetalk" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="studydemo" type="462c0819:PsiDirectoryNode" />
-              <item name="ptp2" type="462c0819:PsiDirectoryNode" />
+              <item name="ptp3" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -205,7 +304,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/studydemo/ptp2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/studydemo/ptp3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -213,6 +312,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java  ide\IntelliJ IDEA 2019.1\workspace\socket-livetalk\src\studydemo\ptp3" />
       <recent name="D:\Java  ide\IntelliJ IDEA 2019.1\workspace\socket-livetalk\src\studydemo\ptp2" />
       <recent name="D:\Java  ide\IntelliJ IDEA 2019.1\workspace\socket-livetalk\src\studydemo\ptp" />
     </key>
@@ -229,7 +329,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Client (2)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studydemo.ptp3.client.Client" />
+      <module name="socket-livetalk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studydemo.ptp3.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studydemo.ptp2.client.Client" />
+      <module name="socket-livetalk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studydemo.ptp2.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="studydemo.tcp.Client" />
       <module name="socket-livetalk" />
@@ -243,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studydemo.udp.HelloWorld" />
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studydemo.ptp3.server.Server" />
       <module name="socket-livetalk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studydemo.udp.*" />
+          <option name="PATTERN" value="studydemo.ptp3.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,39 +395,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UDPProvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studydemo.udp.UDPProvider" />
-      <module name="socket-livetalk" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="studydemo.udp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UDPSearcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studydemo.udp.UDPSearcher" />
-      <module name="socket-livetalk" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="studydemo.udp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Server (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Server" />
-        <item itemvalue="Application.UDPSearcher" />
-        <item itemvalue="Application.UDPProvider" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +416,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581141967170</updated>
       <workItem from="1581141972153" duration="20716000" />
-      <workItem from="1581233120622" duration="10407000" />
+      <workItem from="1581233120622" duration="12271000" />
     </task>
     <task id="LOCAL-00001" summary="HelloWorld">
       <created>1581142875031</created>
@@ -381,15 +481,28 @@
       <option name="project" value="LOCAL" />
       <updated>1581241145652</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="点对点传输实现">
+      <created>1581248498382</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581248498382</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改导包错误">
+      <created>1581250629948</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581250629948</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31123000" />
+    <option name="totallyTimeSpent" value="32987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -406,11 +519,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4977169" weight="0.32873276" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.32939914" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49923897" weight="0.32998747" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49923897" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -471,7 +584,9 @@
     <MESSAGE value="udp实现广播" />
     <MESSAGE value="tcp数据传输的常用配置" />
     <MESSAGE value="UDP搜索服务器IP地址与端口实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="UDP搜索服务器IP地址与端口实现" />
+    <MESSAGE value="点对点传输实现" />
+    <MESSAGE value="修改导包错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改导包错误" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/studydemo/udp/HelloWorld.java">
@@ -622,16 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/server/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/clink/net/qiujuer/clink/Clink.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -653,16 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/server/TCPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/UDPSearcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -673,20 +768,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/TCPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="-334">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/TCPClient.java">
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/client/TCPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-334">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/clink/net/qiujuer/clink/Clink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/constants/TCPConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/constants/UDPConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/server/handle/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/server/UDPProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/server/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/client/UDPSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1025">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp3/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/server/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studydemo/ptp2/server/UDPProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
