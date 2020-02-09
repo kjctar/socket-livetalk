@@ -1,7 +1,9 @@
 package studydemo.ptp2.server;
 
-import clink.net.qiujuer.clink.utils.ByteUtils;
-import constants.UDPConstants;
+
+
+import studydemo.ptp2.clink.net.qiujuer.clink.utils.ByteUtils;
+import studydemo.ptp2.constants.UDPConstants;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
